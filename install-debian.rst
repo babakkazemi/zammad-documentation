@@ -3,6 +3,10 @@ Install on Debian via DEB
 
 Currently we support Debian 8
 
+Install apt-transport-https
+===========================
+sudo apt-get install apt-transport-https
+
 
 Add Zammad DEB Repo and install
 ===============================
